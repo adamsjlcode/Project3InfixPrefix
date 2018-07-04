@@ -1,0 +1,10 @@
+﻿Alpha = Beta + Gamma * Delta
+Beta = Gamma * Delta + Nu
+A = (B+C) * (C - D)/2 + E
+A + (B * C)
+(A + B) * (Z + X)
+(A + T) * ((B + (A + C)) / (C + D))
+Alpha     = 62.5    *   (Gamma      -      Delta     /   125
+Alpha     = 62.5    *   (Gamma      -      Delta     /   125)
+Angelo = (Marko * Harpo + Zeppo/3
+Angelo = (Marko * Harpo + Zeppo/3)
